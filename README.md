@@ -53,9 +53,9 @@ The following column is used in this project as the target:
 
 
 ## Roadmap
-The aim of the project is to predict the calories burnt based on the features in the dataset.
-I split the features from the target.
-The dataset was split into training and testing data in the proportion of 80% to 20% respectively.
-I modelled the data with an XGBoost Regressor and evaluated the results with the mean absolute error framework.
+* The aim of the project is to predict the calories burnt based on the features in the dataset.
+* I split the features from the target.
+* The dataset was split into training and testing data in the proportion of 80% to 20% respectively.
+* I modelled the data with an XGBoost Regressor and evaluated the results with the mean absolute error framework.
 
 ## Results and Discussion
